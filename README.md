@@ -1,4 +1,4 @@
-# Gulp-SASS-landing
+# Gulp/SASS landing page
 Web page using CSS3 animations, SASS preprocessor. Hot-reload browser, using 'browser-sync' module.
 
 
